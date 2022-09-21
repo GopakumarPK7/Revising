@@ -1,0 +1,22 @@
+browser chrome
+url https://www.flipkart.com/
+timeout 10
+
+
+
+
+
+
+
+
+Software details 
+----------------
+
+Device Name 	-- ASUS_X00TDC
+
+Android version -- 9
+
+Device platform -- ANDROID
+
+Device ID	-- C4ATAS000000
+
